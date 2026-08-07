@@ -1,0 +1,8 @@
+{
+  "name": "StockBreak",
+  "description": "An AI-powered bot that analyzes stock tickers using the Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
